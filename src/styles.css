@@ -56,6 +56,13 @@ footer{background:#fff;padding:18px 0;text-align:center;margin-top:24px;border-t
 	.nav-actions{display:none}
 	.banner{flex-direction:column}
 	.banner-left img{max-height:320px}
+
+	/* Stack and center header on mobile and hide side logos */
+	.top-header{padding:12px 12px}
+	.top-header .header-inner{flex-direction:column;align-items:center;gap:8px}
+	.logo-left,.logo-right{display:none}
+	.header-title{text-align:center;flex:unset}
+	.header-title h1{font-size:20px;line-height:1.15}
 	.banner-right,.right-content{width:100%}
 }
 
