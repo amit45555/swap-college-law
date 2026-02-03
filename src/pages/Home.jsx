@@ -1,6 +1,7 @@
 import React from 'react'
 import Banner from "../components/Banner";
 import NewsTabs from "../components/NewsTabs";
+import IconCircle from "../components/IconCircle";
 
 const Home = () => {
   return (
@@ -37,27 +38,21 @@ const Home = () => {
         <h2 className="explorer-title">Explorer</h2>
         <div className="explorer-grid">
           <div className="explorer-card">
-            <div className="icon-circle">
-              <img src="/assets/images/logo.svg" alt="Courses" />
-            </div>
+            <IconCircle icon="courses" alt="Courses" />
             <h4>Courses</h4>
             <p className="muted">Late Govindrao Wanjari College of Law, Nagpur</p>
             <a className="read-more" href="#">Read More</a>
           </div>
 
           <div className="explorer-card">
-            <div className="icon-circle">
-              <img src="/assets/images/event1.svg" alt="Brochure" />
-            </div>
+            <IconCircle icon="brochure" alt="Brochure" />
             <h4>Download Brochure</h4>
             <p className="muted">Late Govindrao Wanjari College of Law, Nagpur</p>
             <a className="read-more" href="#">Read More</a>
           </div>
 
           <div className="explorer-card">
-            <div className="icon-circle">
-              <img src="/assets/images/building.svg" alt="Admission" />
-            </div>
+            <IconCircle icon="admission" alt="Admission" />
             <h4>Admission</h4>
             <p className="muted">Late Govindrao Wanjari College of Law, Nagpur</p>
             <a className="read-more" href="#">Read More</a>
