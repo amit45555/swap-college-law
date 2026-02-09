@@ -9,8 +9,8 @@ const Header = () => {
         </div>
 
         <div className="header-title">
-          <h1>VISHVASRAO KATEKHAYE COLLEGE OF LAW, CHICHAL</h1>
-          <div className="sub">Approved by Bar Council of India / RTM Nagpur University</div>
+          <h1>SWAPNIL COLLEGE OF LAW, KONDHA/KOSARA</h1>
+          <div className="sub">Approved by Bar Council of India / RTM Kondha University</div>
         </div>
 
         <div className="logo-right">

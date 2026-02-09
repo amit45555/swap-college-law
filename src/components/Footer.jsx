@@ -35,7 +35,7 @@ const Footer = () => {
         </div>
 
         <div className="footer-bottom">
-          <small>© {new Date().getFullYear()} Govindrao Wanjari College of Law, Nagpur</small>
+          <small>© {new Date().getFullYear()} Swapnil College of Law, Kondha</small>
         </div>
       </div>
     </footer>

@@ -10,13 +10,13 @@ const Home = () => {
 
       <main className="content">
         <section className="left-content">
-          <h2 className="page-title">Welcome to Late Govindrao Wanjari College of Law</h2>
+          <h2 className="page-title">Welcome to Swapnil College of Law</h2>
 
           <div className="card">
             <h3>About College</h3>
             <p>
-              Amar Sewa Mandal, Nagpur is an education society running various
-              institutes in Nagpur region. Late Govindrao Wanjari College of Law
+              Amar Sewa Mandal, Kondha is an education society running various
+              institutes in Kondha region. Swapnil College of Law
               (GWCL) is one among those. GWCL has been established with the
               object of creating eminent professionals in legal field with a zeal
               for excellence and faith in values. The college started on 16th
@@ -40,21 +40,21 @@ const Home = () => {
           <div className="explorer-card">
             <IconCircle icon="courses" alt="Courses" />
             <h4>Courses</h4>
-            <p className="muted">Late Govindrao Wanjari College of Law, Nagpur</p>
+            <p className="muted">Swapnil College of Law, Kondha</p>
             <a className="read-more" href="#">Read More</a>
           </div>
 
           <div className="explorer-card">
             <IconCircle icon="brochure" alt="Brochure" />
             <h4>Download Brochure</h4>
-            <p className="muted">Late Govindrao Wanjari College of Law, Nagpur</p>
+            <p className="muted">Swapnil College of Law, Kondha</p>
             <a className="read-more" href="#">Read More</a>
           </div>
 
           <div className="explorer-card">
             <IconCircle icon="admission" alt="Admission" />
             <h4>Admission</h4>
-            <p className="muted">Late Govindrao Wanjari College of Law, Nagpur</p>
+            <p className="muted">Swapnil College of Law, Kondha</p>
             <a className="read-more" href="#">Read More</a>
           </div>
         </div>
@@ -66,7 +66,7 @@ const Home = () => {
           <h2 className="features-title">FEATURES & ACTIVITIES</h2>
           <div className="features-grid">
             <div className="tile">
-              <div className="tile-overlay">Late Govindrao Wanjari College Of Law,Nagpur</div>
+              <div className="tile-overlay">Swapnil College of Law, Kondha</div>
             </div>
             <div className="tile">
               <img src="/assets/images/event1.svg" alt="f1" />
@@ -86,20 +86,20 @@ const Home = () => {
             </div>
 
             <div className="tile">
-              <div className="tile-overlay">Late Govindrao Wanjari College Of Law,Nagpur</div>
+              <div className="tile-overlay">Swapnil College of Law, Kondha</div>
             </div>
             <div className="tile">
               <img src="/assets/images/event1.svg" alt="f8" />
             </div>
             <div className="tile">
-              <div className="tile-overlay">Late Govindrao Wanjari College Of Law,Nagpur</div>
+              <div className="tile-overlay">Swapnil College of Law, Kondha</div>
             </div>
 
             <div className="tile">
               <img src="/assets/images/building.svg" alt="f10" />
             </div>
             <div className="tile">
-              <div className="tile-overlay">Late Govindrao Wanjari College Of Law,Nagpur</div>
+              <div className="tile-overlay">Swapnil College of Law, Kondha</div>
             </div>
             <div className="tile">
               <img src="/assets/images/event1.svg" alt="f12" />
