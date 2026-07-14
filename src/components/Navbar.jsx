@@ -24,16 +24,10 @@ const Navbar = () => {
           <li>Placement</li>
           <li>Contact Us</li>
           {/* mobile actions shown inside menu */}
-          <li className="mobile-actions">
-            <button className="btn-link">FRA-Fee Structure</button>
-            <button className="btn-primary">Login</button>
-          </li>
+         
         </ul>
 
-        <div className="nav-actions">
-          <button className="btn-link">FRA-Fee Structure</button>
-          <button className="btn-primary">Login</button>
-        </div>
+       
       </div>
     </nav>
   )
